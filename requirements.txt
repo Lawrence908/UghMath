@@ -1,0 +1,8 @@
+ipykernel
+jupyter
+math
+scipy
+sympy 
+matplotlib 
+numpy
+latex
